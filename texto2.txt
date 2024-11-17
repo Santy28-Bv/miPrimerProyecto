@@ -1,0 +1,5 @@
+ El volumen de la unidad C es Windows-SSD
+ El n£mero de serie del volumen es: 8247-0B94
+
+ Directorio de C:\Users\Santiago\miPrimerProyecto
+
